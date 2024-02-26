@@ -1,0 +1,56 @@
+{
+  "_index-1c69aff9.js": {
+    "css": [
+      "assets/index-3b28322e.css"
+    ],
+    "file": "assets/index-1c69aff9.js",
+    "imports": [
+      "_index-409b0ab6.js"
+    ]
+  },
+  "_index-409b0ab6.js": {
+    "file": "assets/index-409b0ab6.js"
+  },
+  "index.css": {
+    "file": "assets/index-3b28322e.css",
+    "src": "index.css"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-3b934edf.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-b16296d7.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-b16296d7.css"
+    ],
+    "file": "assets/app-2f087939.js",
+    "imports": [
+      "_index-409b0ab6.js",
+      "_index-1c69aff9.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/router.js": {
+    "file": "assets/router-0318bb76.js",
+    "imports": [
+      "_index-1c69aff9.js",
+      "_index-409b0ab6.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/router.js"
+  },
+  "resources/js/toast.js": {
+    "file": "assets/toast-98b897e9.js",
+    "imports": [
+      "_index-409b0ab6.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/toast.js"
+  }
+}
